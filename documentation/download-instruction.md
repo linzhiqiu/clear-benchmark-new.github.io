@@ -1,15 +1,25 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1511497584788-876760111969?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=3432&q=80
+description: Download links for CLEAR-10 and CLEAR-100
+cover: ../.gitbook/assets/banner_white.png
 coverY: 0
 ---
 
 # Download Instruction
 
-To request time off, just fill in our simple form and we'll get it approved!
+![CLEAR Statistics](../.gitbook/assets/stats.png)
+
+### CLEAR-10 S3 Download Links:
+
+* [CLEAR-10 Trainset (1GB)](https://clear-challenge.s3.us-east-2.amazonaws.com/clear10-train-image-only.zip)
+* [CLEAR-10 Testset (200MB)](https://clear-challenge.s3.us-east-2.amazonaws.com/clear10-test.zip)
+* [CLEAR-10 Trainset & Unlabeled Metadata (3GB)](https://clear-challenge.s3.us-east-2.amazonaws.com/clear10-train.zip)
+
+### CLEAR-100 S3 Download Links:
+
+* [CLEAR-100 Trainset (3GB)](https://clear-challenge.s3.us-east-2.amazonaws.com/clear100-train-image-only.zip)
+* [CLEAR-100 Testset (1.6GB)](https://clear-challenge.s3.us-east-2.amazonaws.com/clear100-test.zip)
+* [CLEAR-100 Trainset & Unlabeled Metadata (13GB)](https://clear-challenge.s3.us-east-2.amazonaws.com/clear100-train.zip)
 
 {% hint style="info" %}
-**Good to know:** you can embed public links, like this Typeform, to make data capture a breeze!
+**Good to know:** You can also download CLEAR-10 / CLEAR-100 on Avalanche with a few lines of code!
 {% endhint %}
-
-{% embed url="https://2w3pnm4iy73.typeform.com/to/P228Ngvj" %}
