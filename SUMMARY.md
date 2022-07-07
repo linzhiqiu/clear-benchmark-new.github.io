@@ -4,7 +4,7 @@
 
 ## Introduction
 
-* [About CLEAR Benchmark](introduction/about-clear-benchmark.md)
+* [Motivation of CLEAR Benchmark](introduction/motivation-of-clear-benchmark.md)
 * [Motivation](introduction/motivation.md)
 * [1st CLEAR Challenge (CVPR'22)](introduction/1st-clear-challenge-cvpr22.md)
 * [About us](introduction/about-us.md)
