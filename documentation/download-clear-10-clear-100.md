@@ -1,10 +1,8 @@
 ---
 description: Download links for CLEAR-10 and CLEAR-100
-cover: ../.gitbook/assets/banner_white.png
-coverY: 0
 ---
 
-# Download Instruction
+# Download CLEAR-10/CLEAR-100
 
 ![CLEAR Statistics](../.gitbook/assets/stats.png)
 
