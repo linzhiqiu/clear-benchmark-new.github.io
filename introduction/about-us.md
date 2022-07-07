@@ -2,7 +2,7 @@
 
 ## CLEAR Advisory Board
 
-![Deva Ramanan, Professor at Carnegie Mellon University, Director of CMU Argo AI Center, and Principal Scientist at Argo AI](../.gitbook/assets/deva.jpg) ![Deepak Pathak, Assistant Professor at Carnegie Mellon University @ Robotics Institute & Machine Learning Department](../.gitbook/assets/Deepak\_Pathak.jpg)
+![Deva Ramanan @ Professor at Carnegie Mellon University, Director of CMU Argo AI Center, Principal Scientist at Argo AI](../.gitbook/assets/deva.jpg) ![Deepak Pathak @ Assistant Professor at Carnegie Mellon University](../.gitbook/assets/Deepak\_Pathak.jpg)
 
 
 
