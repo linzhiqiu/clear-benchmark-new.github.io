@@ -12,7 +12,7 @@ CLEAR is a novel continual/lifelong benchmark that captures real-world distribut
 
 > For long, researchers in continual learning (CL) community have been working with artificial CL benchmarks such as "Permuted-MNIST" and "Split-CIFAR", which do not align with any practical applications. In reality, distribution shifts are smooth, such as natural temporal evolution of visual concepts.&#x20;
 
-Below are examples of classes in [CLEAR-100](documentation/download-instruction.md) that changed over the past decade:
+Below are examples of classes in [CLEAR-100](documentation/download-clear-10-clear-100.md) that changed over the past decade:
 
 ![Back to 2004, we had bulky desktop, old-fashioned analog watches, and 2D pixel-art game.
 Nonetheless, visual concepts gradually evolved from 2004 to 2014, e.g., fancier-looking Macbook Pro, digital watches, and 3D realistic-graphics games.](.gitbook/assets/examples.png)
@@ -33,4 +33,8 @@ Despite that the top teams achieved high scores on the current CLEAR benchmarks,
 * Self-supervised/Semi-Supervised Continous Learning
 * Online Test-Time Adaptation
 
-####
+#### Note that this wiki page is under construction (as of July 7 2022)!
+
+{% content-ref url="documentation/download-clear-10-clear-100.md" %}
+[download-clear-10-clear-100.md](documentation/download-clear-10-clear-100.md)
+{% endcontent-ref %}

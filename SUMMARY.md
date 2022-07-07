@@ -10,5 +10,5 @@
 
 ## Documentation
 
-* [Download Instruction](documentation/download-instruction.md)
+* [Download CLEAR-10/CLEAR-100](documentation/download-clear-10-clear-100.md)
 * [Avalanche Integration](documentation/avalanche-integration.md)
