@@ -25,7 +25,7 @@ The CLEAR Benchmark and the [CLEAR-10](documentation/download-clear-10-clear-100
 NeurIPS'21 Datasets and Benchmarks Track
 {% endembed %}
 
-In spirit of the famous [CIFAR-10/CIFAR-100 benchmarks](https://www.cs.toronto.edu/\~kriz/cifar.html) for static image classification tasks, we collected a more challenging [CLEAR-100](documentation/download-clear-10-clear-100.md#clear-100-s3-download-links) with a more diverse set of classes.
+In spirit of the famous [CIFAR-10/CIFAR-100 benchmarks](https://www.cs.toronto.edu/\~kriz/cifar.html) for static image classification tasks, we collected a more challenging [CLEAR-100](documentation/download-clear-10-clear-100.md#clear-100-s3-download-links) with a diverse set of 100 classes.
 
 {% hint style="info" %}
 We hope our [CLEAR-10/-100](documentation/download-clear-10-clear-100.md) benchmarks can be the new "CIFAR" as a test stone for continual/lifelong learning community.
@@ -41,7 +41,7 @@ We are also working to extend CLEAR to an ImageNet-scale benchmark. If you have 
 
 ## 1st CLEAR challenge on CVPR 2022
 
-In June 2022, the [1st CLEAR Challenge](https://www.aicrowd.com/challenges/cvpr-2022-clear-challenge) was hosted on [CVPR 2022 Open World Vision Workshop](https://www.cs.cmu.edu/\~shuk/vplow.html), with a total of 15 teams from 21 different countries and regions partcipating. You may find a quick summary of the workshop in below page:
+In June 2022, the [1st CLEAR Challenge](https://www.aicrowd.com/challenges/cvpr-2022-clear-challenge) was hosted on [CVPR 2022 Open World Vision Workshop](https://www.cs.cmu.edu/\~shuk/vplow.html), with a total of 15 teams from 21 different countries and regions partcipating. You may find a quick summary of the workshop in the below page:
 
 {% content-ref url="introduction/1st-clear-challenge-cvpr22.md" %}
 [1st-clear-challenge-cvpr22.md](introduction/1st-clear-challenge-cvpr22.md)
@@ -56,9 +56,9 @@ Given the top teams' promising performance on CLEAR-10/-100 benchmarks via utili
 
 #### Note that this wiki page is under construction (as of July 7 2022)!
 
-In the following pages, we will explain the motivation of CLEAR benchmark, the evaluation protocols, and a walk-through of the CVPR'22 Challenge.&#x20;
+In the following pages, we will explain the motivation of CLEAR benchmark, the evaluation protocols, and a walk-through of the 1st CLEAR Challenge on CVPR'22.&#x20;
 
-You can also jump to the links for dataset download instruction:
+You can also jump to the links for downloading CLEAR dataset:
 
 {% content-ref url="documentation/download-clear-10-clear-100.md" %}
 [download-clear-10-clear-100.md](documentation/download-clear-10-clear-100.md)
