@@ -27,7 +27,9 @@ NeurIPS'21 Datasets and Benchmarks Track
 
 In spirit of the famous [CIFAR-10/CIFAR-100 benchmarks](https://www.cs.toronto.edu/\~kriz/cifar.html) for static image classification tasks, we collected a more challenging [CLEAR-100](documentation/download-clear-10-clear-100.md#clear-100-s3-download-links) with a more diverse set of classes.
 
-> We hope our [CLEAR-10/-100](documentation/download-clear-10-clear-100.md) and be the new CIFAR-10/-100 benchmarks for continual/lifelong learning community.
+{% hint style="info" %}
+We hope our [CLEAR-10/-100](documentation/download-clear-10-clear-100.md) benchmarks can be the new "CIFAR" as a test stone for continual/lifelong learning community.
+{% endhint %}
 
 We are also working to extend CLEAR to an ImageNet-scale benchmark. If you have feedback and insights, feel free to reach out to us!
 
