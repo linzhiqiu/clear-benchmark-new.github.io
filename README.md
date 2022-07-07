@@ -56,6 +56,10 @@ Given the top teams' promising performance on CLEAR-10/-100 benchmarks via utili
 
 #### Note that this wiki page is under construction (as of July 7 2022)!
 
+In the following pages, we will explain the motivation of CLEAR benchmark, the evaluation protocols, and a walk-through of the CVPR'22 Challenge.&#x20;
+
+You can also jump to the links for dataset download instruction:
+
 {% content-ref url="documentation/download-clear-10-clear-100.md" %}
 [download-clear-10-clear-100.md](documentation/download-clear-10-clear-100.md)
 {% endcontent-ref %}
