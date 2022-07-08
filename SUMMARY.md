@@ -6,6 +6,7 @@
 
 * [Motivation of CLEAR Benchmark](introduction/about-clear-benchmark.md)
 * [Visio-Linguistic Dataset Curation](introduction/visio-linguistic-dataset-curation.md)
+* [Evaluation Protocol](introduction/evaluation-protocol.md)
 * [1st CLEAR Challenge (CVPR'22)](introduction/1st-clear-challenge-cvpr22.md)
 * [About us](introduction/about-us.md)
 
