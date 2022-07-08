@@ -4,6 +4,8 @@ description: How to efficiently annotate a million-scale Internet image collecti
 
 # Visio-Linguistic Dataset Curation
 
+![Overview of this page](../.gitbook/assets/dataset\_overview.png)
+
 We start from the public [YFCC100M](http://projects.dfki.uni-kl.de/yfcc100m/) collection that contains Flickr images uploaded between 2004 and 2014. We downloaded a 8M subset to build CLEAR-10, and a 40M subset to build CLEAR-100.
 
 We use the **upload time** to recreate the temporal stream and split the 8M/40M into **11 buckets of images**, each spanning on average 1 year. The 0th bucket is reserved for unsupervised pre-training (e.g., MoCo), and we curate a small but **high-quality labeled set** (with CLEAR-10 and CLEAR-10 ontology defined [here](about-clear-benchmark.md#temporal-evolution-of-visual-concepts)) for **each of the 1st to 10th buckets**.&#x20;
